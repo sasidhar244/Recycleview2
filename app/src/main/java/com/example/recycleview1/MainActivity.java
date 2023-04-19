@@ -68,6 +68,6 @@ public class MainActivity extends AppCompatActivity {
             News news = new News(newsHeading[i],imageResourceId[i] );
             newsArrayList.add(news);
         }
-        myAdapter.notifyDataSetChanged();
+        //myAdapter.notifyDataSetChanged();
     }
 }
