@@ -3,7 +3,6 @@ package com.example.recycleview1;
 public class News {
     String heading;
     int titleImage;
-    int image;
 
     public String getHeading() {
         return heading;
